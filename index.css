@@ -131,8 +131,8 @@ header {
   color: #fff;
 }
 
-.title-71{
-  font-family:Arial, Helvetica, sans-serif;
+.title-71 {
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 42px;
@@ -145,8 +145,8 @@ header {
 
   font-family: 'Atacama Var';
   font-style: normal;
-    font-size: 20px;
- 
+  font-size: 20px;
+
   text-align: center;
   color: #fff;
 }
@@ -252,15 +252,15 @@ header {
 }
 
 .block_need_help {
-   
+
   align-items: left;
   display: flex;
-  justify-content:space-between ;
+  justify-content: space-between;
   flex-direction: row;
 
   flex-wrap: nowrap;
-   
- 
+
+
 }
 
 .boxi {
@@ -269,7 +269,7 @@ header {
   display: flex;
   flex-direction: column;
   position: inherit;
-  
+
   margin-top: 20px;
   margin-bottom: 50px;
   margin-left: 50px;
@@ -283,17 +283,15 @@ header {
 
 .box_section {
 
-  align-items: center;
-  padding-top: 10px;
-  padding-bottom: 10px;
-
-  margin-top: 40px;
-  margin-bottom: 40px;
-  margin-left: 40px;
+  padding-top: 1px;
+  padding-bottom: -10px;
+  padding-left: 75px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   margin-right: 40px;
-  width: 82%;
-  height: 342px;
-
+  width: 89.5%;
+  height: 362px;
+  display: flex;
 }
 
 .img_social {
@@ -333,7 +331,7 @@ header {
   background-color: rgb(23, 255, 2);
   display: inherit;
   justify-content: flex-end;
-  
+
 
 }
 
@@ -444,7 +442,7 @@ table {
   line-height: 42px;
   text-align: left;
   color: #fff;
-  padding:5px;
+  padding: 5px;
 }
 
 .title-10 {
@@ -458,6 +456,7 @@ table {
   padding: 5px;
   white-space: nowrap;
 }
+
 .title-10_1 {
   font-family: 'Antarctica';
   font-size: 19px;
@@ -475,6 +474,7 @@ table {
   padding: 5px;
   white-space: nowrap;
 }
+
 .title-11 {
 
   font-family: 'Secular One', sans-serif;
